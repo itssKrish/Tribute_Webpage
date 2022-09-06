@@ -1,5 +1,3 @@
-# Tribute_Webpage
-
 # Webpage_Preview
 
 <p align="center">
