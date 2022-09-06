@@ -1,4 +1,7 @@
 # Tribute_Webpage
 
 # Webpage_Preview
-![alt text](https://github.com/itssKrish/Tribute_Webpage/blob/main/preview_webpage.png?raw=true)
+
+<p align="center">
+  <img width="600" height="800" src="https://github.com/itssKrish/Tribute_Webpage/blob/main/preview_webpage.png">
+</p>
